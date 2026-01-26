@@ -1,7 +1,7 @@
 # go-nextver
 CLI tool designed to analyze a Go module and opine on the next semantic version:
 
-This is a **PROOF-OF-CONCEPT** and its code will probably be rolled into [**Squire**](https://github.com/mikeschinkel/squire) once it matures, and at that point I may delete this repo.  
+This is a **PROOF-OF-CONCEPT** and its code will probably be rolled into [**Gomion**](https://github.com/mikeschinkel/gomion) once it matures, and at that point I may delete this repo.  
 
 Feel free to use it for your own needs in the interim, however.
 
